@@ -1,0 +1,9 @@
+Name: nezeno
+Class: Warrior
+Gender: Male
+Strenght: 36
+Dexterity: 49
+Magic: 19
+Strenght ability: False
+Dexterity ability: False
+Magic ability: False

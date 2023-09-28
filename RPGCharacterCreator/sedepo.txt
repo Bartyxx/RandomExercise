@@ -1,0 +1,9 @@
+Name: sedepo
+Class: Ranger
+Gender: Female
+Strenght: 12
+Dexterity: 40
+Magic: 20
+Strenght ability: False
+Dexterity anility: False
+Magic ability: False

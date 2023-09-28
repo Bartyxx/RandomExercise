@@ -1,0 +1,9 @@
+Name: aino
+Class: Warrior
+Gender: Male
+Strenght: 50
+Dexterity: 22
+Magic: 15
+Strenght ability: False
+Dexterity ability: False
+Magic ability: False

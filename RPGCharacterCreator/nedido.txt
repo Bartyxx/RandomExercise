@@ -1,0 +1,9 @@
+Name: nedido
+Class: Warrior
+Gender: Male
+Strenght: 75
+Dexterity: 46
+Magic: 42
+Strenght ability: True
+Dexterity anility: False
+Magic ability: False

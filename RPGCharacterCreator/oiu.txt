@@ -1,0 +1,9 @@
+Name: oiu
+Class: Ranger
+Gender: Other
+Strenght: 17
+Dexterity: 62
+Magic: 19
+Strenght ability: False
+Dexterity anility: False
+Magic ability: False
