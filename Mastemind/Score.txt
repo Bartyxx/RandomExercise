@@ -1,0 +1,17 @@
+Alstolfo, 1,Hard 
+Micio, 1,Hard 
+Diddi, 1,Hard 
+ciao, 1,Easy 
+alstolfino, 2,Easy 
+ciaociao, 1,Medium 
+provahard, 1,Hard 
+Alfonsino, 1,Hard 
+Sisi, 1,Hard 
+sissi, 1,Medium 
+Lavinia, 1,Hard 
+Rebecca, 1,Hard 
+LaviniaE, 1,Hard 
+Martina, 1,Easy 
+Barty, 3,Easy 
+Alfa, 3,Medium 
+alfa, 17,Easy 
