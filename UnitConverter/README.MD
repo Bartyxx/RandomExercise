@@ -8,22 +8,22 @@ It's possible to choose between four convertion:<br/>
 - <b>Mass</b><br/>
 
 Each of this have three possible option of unit to convert:<br/>
-<b>Temperature</b><br/>
+<b>Temperature</b>
 - Celsius<br/>
 - Fahrenheit<br/>
 - Kelvin<br/>
 
-<b>Volume</b><br/>
+<b>Volume</b>
 - Liter<br/>
 - Cubic meter<br/>
 - Milliliter<br/>
 
-<b>Currency</b><br/>
+<b>Currency</b>
 - Euro<br/>
 - Dollar<br/>
 - Renmibi<br/>
 
-<b>Mass</b><br/>
+<b>Mass</b>
 - Gram<br/>
 - Kilogram<br/>
 - Pound<br/>
