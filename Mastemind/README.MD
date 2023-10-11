@@ -2,9 +2,9 @@
 
 A game in wich the pourpose it's to guess a number.<br/>
 The users can choose between three difficulties:<br/>
-Easy --> 4 digits number, the program suggest if one or more number inserted are right.<br/>
-Medium --> 4 digits number, no suggestion about right insertion.<br/>
-Hard --> 5 digits number, no suggestion about right insertion.<br/>
+<b>Easy</b> --> 4 digits number, the program suggest if one or more number inserted are right.<br/>
+<b>Medium</b> --> 4 digits number, no suggestion about right insertion.<br/>
+<b>Hard</b> --> 5 digits number, no suggestion about right insertion.<br/>
 
 
 The users have infinite attempts.<br/>
