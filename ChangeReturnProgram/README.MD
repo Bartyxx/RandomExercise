@@ -21,9 +21,9 @@ There are two option in this program:<br/>
 - <b>select your price</b><br/>
 - <b>test environment</b><br/>
 
-<h3>Select your price</h3><br/>
+<h3>Select your price</h3>
 The users select the price of the product and the money given.<br/>
 
-<h3>Test environment</h3><br/>
+<h3>Test environment</h3>
 The program generate a random price for a product and a random amount of money given by the users.<br/>
 Then propose the best change possible.
