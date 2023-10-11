@@ -1,6 +1,6 @@
 <h1>Change Return Program</h1>
 
-This program calculate the change of a transaction considering the best possible change combination in wich <i>best means that return the less piece possible<i/>.<br/>
+This program calculate the change of a transaction considering the best possible change combination in wich <i>best means that return the less piece possible</i>.<br/>
 
 The program consider the pounds as currency so piece considered for the change are:<br/>
 - 50 <br/>
