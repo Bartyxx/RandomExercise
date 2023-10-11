@@ -3,9 +3,9 @@
 This program is used to convert a number in a unit to another.<br/>
 It's possible to choose between four convertion:<br/>
 - <b>Temperature</b><br/>
-- Volume</b><br/>
-- Currency</b><br/>
-- Mass</b><br/>
+- <b>Volume</b><br/>
+- <b>Currency</b><br/>
+- <b>Mass</b><br/>
 
 Each of this have three possible option of unit to convert:<br/>
 <b>Temperature</b><br/>
