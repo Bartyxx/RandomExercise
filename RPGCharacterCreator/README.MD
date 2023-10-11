@@ -21,5 +21,5 @@ For more information about the stat click here --> https://github.com/Bartyxx/Ra
 
 The name of the character is created randomly.<br/>
 
-Afther that the statistics of the character are saved in a file with the name, randomly generated of the character. <br/>
+Afther that the statistics of the character are saved in a file with the name randomly generated of the character as file name. <br/>
 For an example of the file with the name and the stars --> https://github.com/Bartyxx/RandomExercise/blob/main/RPGCharacterCreator/nezeno.txt<br/>
