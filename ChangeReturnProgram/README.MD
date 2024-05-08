@@ -1,8 +1,8 @@
 <h1>Change Return Program</h1>
 
-This program calculate the change of a transaction considering the best possible change combination in wich <i>best means that return the less piece possible</i>.<br/>
+This program calculates the change of a transaction considering the best possible change combination in which <i>best means that return the less piece possible</i>.<br/>
 
-The program consider the pounds as currency so piece considered for the change are:<br/>
+The program considers the pounds as currency so pieces considered for the change are:<br/>
 - 50 <br/>
 - 20 <br/>
 - 10 <br/>
@@ -10,14 +10,14 @@ The program consider the pounds as currency so piece considered for the change a
 - 2  <br/>
 - 1  <br/>
 
-At the end of the program a convertion of the change is showm between:<br/>
-Punds - Euro<br/>
+At the end of the program, a conversion of the change is shown between:<br/>
+Pounds - Euro<br/>
 Punds - Quarters (USA)<br/>
 Punds - Dimes    (USA) <br/>
 Punds - Nickels  (USA) <br/>
 Punds - Pennies  (ENG)<br/>
 
-There are two option in this program:<br/>
+There are two options in this program:<br/>
 - <b>select your price</b><br/>
 - <b>test environment</b><br/>
 
@@ -25,5 +25,5 @@ There are two option in this program:<br/>
 The users select the price of the product and the money given.<br/>
 
 <h3>Test environment</h3>
-The program generate a random price for a product and a random amount of money given by the users.<br/>
+The program generates a random price for a product and a random amount of money given by users.<br/>
 Then propose the best change possible.
