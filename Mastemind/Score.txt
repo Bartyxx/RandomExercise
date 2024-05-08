@@ -1,7 +1,0 @@
-Alstolfo, 1,Hard 
-Mario, 10,Hard 
-Umberto, 1,Hard 
-Martina, 5,Easy 
-Francesca, 2,Easy 
-Sara, 23,Medium 
-

@@ -1,5 +1,5 @@
 <h1>Mastermind</h1>
-
+:(
 A game in wich the pourpose it's to guess a number.<br/>
 The users can choose between three difficulties:<br/>
 <b>Easy</b> --> guess 4 digits number, the program suggest if one or more number inserted are right.<br/>
