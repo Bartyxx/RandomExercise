@@ -11,13 +11,21 @@
        price and the money given by the client. Next sum this two number for
        ceck if the program is correct.
        
+       
+   Variables
+   choice -> Choose between the two environment.
+   price  -> Cost of the items.
+   money  -> Money given
+
 """
 import copy
 import random
 
-# Ask for the two possible option of the program, the test enviroment wich 
-# randomly generate the price and the money or the personal area that allows
-# you to insert price and money given
+"""
+Ask for the two possible option of the program, the test enviroment wich 
+randomly generate the price and the money or the personal area that allows
+you to insert price and money given
+"""
 
 print("This program allows you to calculate the change given to a client.\n"
       "The change is calculated using the less possible piece of money given.\n"
@@ -26,8 +34,6 @@ print("This program allows you to calculate the change given to a client.\n"
       "Personal area    : allows the users to input the price and the money given.\n"
       "Test enviroment  : generate randomly the price and the money given.\n")
     
-
-
 
 print("Choose one of the two possible option:\n"
       "s : select your price\n"
@@ -77,7 +83,6 @@ if choice.lower() == "t":
     
     print(f"The price of the product is: {price}")
     print(f"The money given are: {money}")
-    
     
 
 price = int(price)
