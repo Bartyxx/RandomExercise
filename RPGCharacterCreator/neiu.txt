@@ -1,0 +1,9 @@
+Name: neiu
+Class: Mage
+Gender: Other
+Strenght: 45
+Dexterity: 17
+Magic: 33
+Strenght ability: False
+Dexterity ability: False
+Magic ability: False

@@ -1,0 +1,9 @@
+Name: szedo
+Class: Warrior
+Gender: Male
+Strenght: 77
+Dexterity: 25
+Magic: 49
+Strenght ability: True
+Dexterity ability: False
+Magic ability: False

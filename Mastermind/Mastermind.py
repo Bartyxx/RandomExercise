@@ -15,6 +15,12 @@
    V - 3. After the game is finished, ask the user for their name and input 
           their score into a table. Show them the high score at the start of 
           the game so that it gives a sense of competition.
+          
+    
+    Variable:
+    choice --> The player choice between the three difficulties available.
+    attempts      --> Attempts before find the right number.
+    answer        --> Number inserted by the users.
 """
 # ============================================================================
 # ============================================================================
@@ -30,7 +36,7 @@ print("Welcome to the game!")
 print("-" * 97)
 print("-" * 97)
 print("-" * 97)      
-print("The pourpose it's to guess the right number in one of three possible difficulties")
+print("The pourpose it's to guess the right number in one of the three possible difficulties")
    
 # Select the top plaer, so the one with the hightest score == 1      
 score_result = pd.read_csv("score.txt", sep = ",", names=["Users", "Score"], on_bad_lines='skip')
@@ -49,6 +55,14 @@ print(filtered)
 
 # Choose the three game difficulties
 print("""
+Easy   --> 4 digits number. When a digit is guessed the position is notified by
+           the program.
+Normal --> 4 digits number. When a digit is guessed but the position is not
+           shown.
+Hard   --> 5 digits number. When a digit is guessed but the position is not
+           shown.
+      """)
+print("""
 Choose the mode you woul'd like to play:
 Easy   --> press a
 Normal --> press b
@@ -56,7 +70,7 @@ Hard   --> press c
       """)
 print("When you are inside the game print stop for exit the game")
 print("-" * 45)
-
+print("--->")
 while True:
     choice = input()
     option = ["a", "b", "c", "A", "B", "C"]

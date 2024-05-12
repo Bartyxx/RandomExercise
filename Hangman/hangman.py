@@ -1,15 +1,19 @@
 """
     Hangman
-        V - 1. Create a version of the hangman using list.
-        V - 2. Ask in input for the word and the chances.
-        V - 3. If the letter is incorrect notice that to the users.
-        V - 4. If the letter is correct replace the position in the word.
-        V - 5. Show the chance left.
+    V - 1. Create a version of the hangman using list.
+    V - 2. Ask in input for the word and the chances.
+    V - 3. If the letter is incorrect notice that to the users.
+    V - 4. If the letter is correct replace the position in the word.
+    V - 5. Show the chance left.
     
     Extension
-        V - 1. If they guess a lettere that they have alredy guessed the users 
-               shouldn't lose a life.
- 
+    V - 1. If they guess a lettere that they have alredy guessed the users 
+           shouldn't lose a life.
+           
+    Variables:
+    word    -> Word that need to be guessed.
+    chances -> Attempts.
+    letter  -> Attempt of the users.
 """
 
 print("This is the Hangman game.\n")

@@ -9,6 +9,12 @@
                V - volume
                V - currency
                V - mass
+    
+    Variables:
+    choice    -> Initial unit choosen.
+    choice_x  -> Unit of the number.  
+    choice_xx -> Unit of convertion.
+    num_x     -> Number that need to be converted.
 """
 
 """

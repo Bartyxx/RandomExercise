@@ -1,0 +1,9 @@
+Name: adiu
+Class: Ranger
+Gender: Female
+Strenght: 5
+Dexterity: 69
+Magic: 33
+Strenght ability: False
+Dexterity ability: False
+Magic ability: False

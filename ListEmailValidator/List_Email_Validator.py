@@ -1,5 +1,12 @@
 """
     V - 2. Allow the users to select a file with a list of mail and ceck every mail in the file.
+    
+    Variable:
+    list_mail -> List of the mail in a csv file.
+    mail      -> A single mail in the list.\
+    list_result -> The flag Correct/Incorrect.
+    result    -> List of the mail + the flag Correct/Incorrect.
+ 
 """
 
 # Open the csv file with the mail.
@@ -101,7 +108,6 @@ for mail in list_mail:
 
 
 result = zip(list_mail, list_result)
- 
     
     
 f = open("mail_ceck.txt", "r+")

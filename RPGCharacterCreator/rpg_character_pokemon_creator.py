@@ -13,6 +13,9 @@
         1. Randomize different name parts.
         2. Associate every name to a character.
 
+    Variables:
+    c_class --> Class choose by the users.
+    c_gender --> Gender choose by the users.
 """
 
 # ============================================================================

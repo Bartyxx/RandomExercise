@@ -3,7 +3,7 @@
 The users got ask gender and type of the character: 
     
 Gender ---> can be male, female or other.
-            - Male -> more strong
+            - Male -> stronger
             - Female -> more dexterity
             - Other -> more intelligent
 Class ----> if the users prefer a strong, agile or intelligent character
@@ -19,7 +19,7 @@ Extra abilities ---> They are 3:
                      - Strenght ability
                      - Agility ability
                      - Intelligence ability
-                     The extra ability is activated when the poi for the class
+                     The extra ability is activated when the poit for the stats
                      is => 70.
 
 ==============================================================================
@@ -36,14 +36,14 @@ Male -> + 15 point strenght
 Female -> + 15 point dexterity
 Other -> + 15 point intelligence
 
-A random number between 0 ad 45 is created for every indicaator, the sum of the
-previosu choice and the random number define the character.
+A random number between 0 ad 45 is created for every indicator, the sum of the
+previous choice and the random number define the character.
 
 There are three bonus:
 Male + Strenght 
 Female + Agility
 Other + Intelligence
-In this three case the random number si generatedf between 10 and 55. 
+In this three case the random number si generated between 10 and 55. 
 
 
 """

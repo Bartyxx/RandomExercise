@@ -6,7 +6,7 @@ The users can choose between three difficulties:<br/>
 <b>Medium</b> --> Guess 4 digits number, no suggestion about right insertion.<br/>
 <b>Hard</b> --> Guess 5 digits number, no suggestion about right insertion.<br/>
 
-The users have infinite attempts.<br/>
+The player have infinite attempts.<br/>
 
 When the number is guessed the users can decide if to insert a username and add their score in a file in which all the scores are collected. The top scores are shown at the beginning of the program. The score is calculated considering the attempts to find the number where the less attempt is the best score.<br/>
 
